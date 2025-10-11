@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "8030a077b154179d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e48bf1af5b34a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bfe535b18d37915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applied Machine Learning 1/Applied Machine Learning Notes 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Applied Machine Learning Notes 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a85e9ebdc565cf62",
+    "type": "split",
+    "children": [
+      {
+        "id": "970aa6d6a2c93a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c21f8b66120240",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2cb58636a4ca6ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db86cf2e79b66bb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e4a4edcfcd59fdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a11b9b90230b9113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbb9f9c528023a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "32390f585832d683",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "5e233628f7421fb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c2ba8c8614b0084d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0bfe535b18d37915",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Applied Machine Learning 1/Applied Machine Learning Notes 1.md",
+    "General Notes/Shortcuts & Code.md",
+    "General Notes",
+    "AI System Design",
+    "Cloud, Data and Edge",
+    "Applied Machine Learning 1",
+    "Welcome.md",
+    "Untitled.canvas",
+    "help.md",
+    "Advanced Embedded/Lab 1.md",
+    "Advanced Embedded"
+  ]
+}
