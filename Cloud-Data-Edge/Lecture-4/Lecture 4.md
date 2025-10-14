@@ -15,7 +15,7 @@
 			- Switching Strategy
 			- Flow Control
 		These points consider the requirements for how networks operate
-- Can have Direct and Indirect Netowrks:
+- Can have Direct and Indirect Networks:
 	- Direct: Every switch is also a network end point
 	- Indirect: Not all switches are end points
 	-These are the key performance properties for network design:
@@ -34,4 +34,4 @@ $$
 - 
 
 ## 🔗 Related Topics
--
+- 
