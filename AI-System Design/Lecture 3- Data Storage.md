@@ -83,6 +83,15 @@ So to make the state machine
 --> Consider the options on the specifics at some point --> i.e: might talk about more in the data points or object models. Talk about them as the datapoint -- this is implementable in the python code at this point. Need to consider the entire pipeline here for the 
 
 Use the interview as its own context -- this makes it easier and more functional. 
+--> the need of the api into the DMS and allow it to feed back into itself at some point. 
+
+In the interview -- there is the computation section going and feeding back into its own section. 
+Deep dives consist of the coding on specific sections for what i utilize. 
+
+The ending 5 minutes consist of: Go through the Q&A sections of what we are asking. Review the requirement they are at a staging section. Do they have funding, group work or anything else. Trying to expand teams ask that kind of leveling on what the job will look like. 
+
+How do the stand-up system operate?
+
 
 ## 🧮 Math & Intuition
 $$
@@ -95,3 +104,14 @@ $$
 ## 🔗 Related Topics
 - [[Neural Networks]]
 - [[Gradient Descent]]
+
+Functional and non-functional system use
+JUst a failed systematic use of effort 
+
+The issue will be trying to fix where it will be assigned. That stems from a seperate -- yet potentially more challenging scenario. 
+
+Enough funds to secure the study and pay off prior loans to that point
+True predictive recall ability point
+
+A bit of a transfer set. How can I make the most of my engineering background to maximise my money making potential? ]
+
