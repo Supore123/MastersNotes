@@ -14,5 +14,13 @@ Using KiCAD for the schematic and design choices.
 --> Need to do the same thing as Phil --> Phil made it so that he went into the website of the STM and reviewed the notes needed from the STM. 
 
 --> Review Paul's Video and make the schematic as required. 
+--> Noone reviewed their PCB -- has anyone started their PCB design of their hardware. 
+--> Need to finish his schematic on the PCB design.
 
 
+Requirements on the system block diagrams, the schematic design then the PCB design. These are all important and requirements. 
+
+Latex and Overleaf is required for the journal setup. 
+Latex is required for the papers. 
+
+ACM JOURNAL FORMATTING. 
