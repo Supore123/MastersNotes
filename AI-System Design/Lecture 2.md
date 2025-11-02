@@ -5,7 +5,7 @@
 
 ---
 ## 🧩 Data Acquisition
--  N.B. Note a machine learning course -- just for AI System design -- the algorithms themselves need independent study to handle. This is 
+-  N.B. Note a machine learning course -- just for AI System design -- the algorithms themselves need independent study to handle. 
 - 
 - Data Acquisition: The **process** with the goal to ensure the data is provided to the AI pipeline. Effectively we are taking messy, unstructured information, and acquisition is the process of organizing and storing in a systematic method.
 	- ^ Core to to the AI pipeline
