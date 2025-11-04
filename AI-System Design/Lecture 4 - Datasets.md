@@ -44,3 +44,5 @@ Need to review the deep learning to assess why gradient descent is better. It is
 ###### Class imbalance
 Review in notes later
 
+
+
