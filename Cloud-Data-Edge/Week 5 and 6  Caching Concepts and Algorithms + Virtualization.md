@@ -62,4 +62,43 @@ There are 3 types of VM:
 3) Application VM: The VM is running under the control of a normal VM and provides a platform indepdent host for a single application: i.e; Java virtual machine
 
 #### Virtual Machine monitor (VMM/Hypervisor)
-- Partitions the 
+- Partitions the resources of a computer into one or more VMs/ 
+- Therefore severals OS's can run concurrently on a single hardware platform
+- this raises an issue for kernel mode/user mode to protect the OS.
+- System calls have a special method to handle this
+
+This leads to us allowing rings of permissions to be able to the kernel. This is the ring layer. 
+- i.e: Ring 0 is the kernal
+- Ring 1 accesses device drivers
+- Ring 2 are user drivers
+- Ring 3 is user applications
+These rings are how the Virtual Machine's OS can access certain instructions but not others
+
+Hypervisor runs on Ring 0, guest OS does not. 
+
+Fixes for some of these are listed like, binary translation. This is where if we get a sensative command i.e: "HALT" instead of calling it in the kernal it will rewrite it to a different command. This is an issue since we have to check every command for if it is those commands or not.
+
+Another solution is to use Para virtualization. This Guest OS is just not allowed to do it at all. We change the source code specifically. 
+
+Different types: 
+type 1: bare mental hypervisor
+type 2: Hypervisor runs on top of VM
+
+ie: VMware and Vsphere is type 1, it is the machine's kernel and all it can really do is turn on/off and let you know to host a differnt OS.
+
+type2: It has its own OS and allows other OS's on top of it. 
+
+#### Virtualization Drawbacks:
+- Large memory consumption
+- Limited scalability 
+- Instantiation Time
+- Heavy Resource usage
+
+### Lightweight virtualization
+- Alternative to hypervisor heavyweight tech, we have **containers**
+- I.E: Docker
+- Docker containers are very fast and host their own 
+- A Container sits on top of a build-in OS to handle its own things, i.e: simulates an OS:
+- **A VM lets you run a virtual machine on any hardware.** **Docker lets you run an application on any operating system**
+- Docker is a suite of software development tools for creating, sharing and running individual containers • Standard format for Linux containers • Allows to create and share images • Standard, reproducible way to easily build trusted images (Dockerfile) • A public repository of Docker images – 1000s of them • https://hub.docker.com/ • Kubernetes is an open-source orchestration system for automating the management, placement, scaling, and routing of containers, across a cluster of servers.
+
