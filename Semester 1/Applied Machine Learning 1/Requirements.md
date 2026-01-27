@@ -1,0 +1,1 @@
+	Need to go through all the forms of lectures on every topic before encountering the requirements on the other sets of lecture topics

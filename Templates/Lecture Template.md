@@ -1,21 +1,40 @@
-
-**Course:** [[Course]]
+# [[Course Name]]: {{title}}
 **Date:** {{date}}
-**Source:** [Lecture Slides](url)
+**Status:** #status/review
+**Topic:** #ml/theory
 
 ---
 
-## 🧩 Key Concepts
-- 
+## Executive Summary
+> Context: Describe the core objective and the specific problem this method addresses.
 
-## 🧮 Math & Intuition
-$$
-y = f(x; \theta)
-$$
+## Theoretical Framework
+### Core Assumptions
+- What must be true about the data for this to hold?
+- Statistical distribution assumptions (e.g., Gaussian, i.i.d.):
 
-## 🧠 Insights
-- 
+### Mathematical Formulation
+- **Loss Function / Objective:**
+$$\mathcal{L}(\theta) = $$
+- **Optimization Strategy:**
+- **Derivation Notes:**
 
-## 🔗 Related Topics
-- [[Neural Networks]]
-- [[Gradient Descent]]
+## Algorithmic Details
+- **Time Complexity:** - **Space Complexity:**
+- **Hyperparameters:**
+
+## Comparative Analysis
+- **Advantages:**
+- **Limitations:**
+- **Relationship to [[Previous Concept]]:**
+
+## Practical Implementation
+- **Common Libraries:** (e.g., PyTorch, JAX, Scikit-learn)
+- **Key Constraints:** (e.g., hardware requirements, data scale)
+
+---
+
+## Reference Links
+- [Lecture Slides](url)
+- [Original Paper](url)
+- [[Related Note A]] | [[Related Note B]]
