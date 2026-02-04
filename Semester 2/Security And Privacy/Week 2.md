@@ -24,6 +24,16 @@
 - Reviewing the use of wireshark and using TLS (transport layer security)
 - Effectively goes through the remaining setting and handling for the client and server messaging system
 
+How to handle security after a device End-Of-Life support
+What kind of hardware level support is there ? To prevent secure boot issues
+
+
+##### Speaker IoT Commencement
+- How to ask questions for remaining requirement listed
+- Commit illegal breaking and malhandling in terms of security and operationality
+
+
+
 Content type, version, length
 Example wireshark packet
 `"""`
@@ -57,4 +67,11 @@ Example wireshark packet
         `Change Cipher Spec Message`
     `TLS segment data (2607 bytes)`
 
-`"""`
+`"""`'
+
+Listed within the server hello is the client-server handshake key segment, this is implicated in the remaining set of the other fields
+
+
+
+
+
