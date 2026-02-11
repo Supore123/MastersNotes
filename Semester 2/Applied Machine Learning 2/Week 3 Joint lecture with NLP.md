@@ -39,7 +39,7 @@
 - Using a log0linear model and softmax, this is a standard application system
 - Sigmoid function is typically used, review the derivation  
 - Sometimes a linear classifier is not needed. We need to handle different types of classifier
-
+Review required for the changes in the systematic usage here
 # MLP
 - Review MLP derifation: #3blue1brown
 - MLPs are universal approximators in the unit cube, so they are being used appropriately for any function, 
@@ -80,7 +80,3 @@ This is the importance of handilng word embeddings for the model systems, review
   
   RNN can process any length input, , which leads to models being utilised so model size doesnt increase for longer input context, however recurrent computation is slow and is difficult to access info from history which is really far back, but theoretically you can do so.
 - 
-
-
-
-
