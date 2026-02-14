@@ -44,4 +44,4 @@ bots are typically used in honeynets
 - A defence is to use techniques about how to address each of these issues, and have firewalls on the defence. This is something to check the outgoing connections or check any outgoing SMTP connections
 ### Trojan Horses
 - A program that will need to the user to run the program, thus being software disguising its malicious actions
-- Time to be a DevOps engineer lol -- Need to be a lot more familiar with what is going on -- time to get the wireshark traffic working
+- 
